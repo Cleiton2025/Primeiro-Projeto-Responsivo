@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-image{
+    width: 600px;
+    height: 300px;
+}
+.link-header{
+    font-weight: 300px;
+    font-size: 20px;
+    line-height: 25px;
+    color: red;
+    cursor: pointer;
+    margin-right: 30px;
+
+}
+
+.button-header{
+    background: red;
+    border-radius: 15px;
+
+}
+
+h1{
+    font-weight: 25px;
+    font-size: 25px;
+    line-height: 10px;
+    color: aqua;
+   margin-top: 10px;
+}
+
+p{
+    font-weight: 200;
+    font-size: 25px;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+button{
+    background: firebrick;
+    width: 100px;
+    height: 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+
